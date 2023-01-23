@@ -1,0 +1,18 @@
+box-color 
+background-color: #F8E6D0
+
+
+box-color2
+background-color:#8DB588
+
+
+box-color3
+background-color:#FDCECE
+
+
+box-color4
+background-color: #F0D1AE
+
+
+
+
